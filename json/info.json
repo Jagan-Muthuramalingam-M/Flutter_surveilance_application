@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Stock1",
+    "img": "assets/warehouse.png"
+  },
+  {
+    "title": "Stock2",
+    "img": "assets/warehouse.png"
+  },
+  {
+    "title": "Stock3",
+    "img": "assets/warehouse.png"
+  },
+  {
+    "title": "Stock4",
+    "img": "assets/warehouse.png"
+  },
+  {
+    "title": "Stock5",
+    "img": "assets/warehouse.png"
+  },
+  {
+    "title": "Stock6",
+    "img": "assets/warehouse.png"
+  },
+  {
+    "title": "Stock7",
+    "img": "assets/warehouse.png"
+  },
+  {
+    "title": "Stock8",
+    "img": "assets/warehouse.png"
+  }
+]
